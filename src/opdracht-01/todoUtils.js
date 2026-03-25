@@ -7,6 +7,8 @@ export function isValidTodo(text) {
   return true;
 }
 
+
+
 /**
  * Bepaalt de prioriteit van een todo
  */
